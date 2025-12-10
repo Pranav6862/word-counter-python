@@ -19,7 +19,7 @@ chars, vowels, words = count_words(input_string)
 
 print(f"Number of character: {chars}")
 print(f"Number of vowels: {vowels}")
-print(f"Number of words: {words}")
+print(f"Number of words are : {words}")
 
 # for char in str:
 #     if char.isalpha():
